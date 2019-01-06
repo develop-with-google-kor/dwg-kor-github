@@ -9,7 +9,7 @@ Jun:
 Jul:
 Aug: ygyoon
 Sept:DohyunKim
-Oct:
+Oct: JiwooMin
 Nov: hyunSo, JihyungMoon
 Dec:
 
@@ -28,3 +28,5 @@ leesr: https://github.com/leesr/Pre-workForGithub
 syshin: https://github.com/melonpeach/dwg-codelab
 ygyoon: https://github.com/czerny92/TEST_HI
 DohyunKim: https://github.com/dhdh6190/HWrepo
+JiwooMin: https://github.com/Joowce/codelab1
+
