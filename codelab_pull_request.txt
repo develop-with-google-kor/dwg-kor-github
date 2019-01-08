@@ -1,7 +1,7 @@
 Step1, Please append your name in the month of your birth.
 
 Jan: dwg-hcpark, yliayoo
-Feb: SeoJung, AeriCho, JihyunSong
+Feb: SeoJung, AeriCho, JihyunSong, MinAKim
 Mar: seralee, JiyeonPark
 Apr: JungMinOh
 May: ericjeong, SoyeeChoi, leesr, syshin, nywoo_o
@@ -35,3 +35,4 @@ JiwooMin: https://github.com/Joowce/codelab1
 AeriCho: https://github.com/aeri206/2019dwg
 BoheeLee: https://github.com/leebohee/MyCodelab.git
 JihyunSong: https://github.com/Song-jh/asdf
+MinAKim: https://github.com/coder-mina/favorite.git
