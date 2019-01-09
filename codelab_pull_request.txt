@@ -5,7 +5,7 @@ Feb: SeoJung, AeriCho, JihyunSong, MinAKim
 Mar: seralee, JiyeonPark
 Apr: JungMinOh
 May: ericjeong, SoyeeChoi, leesr, syshin, nywoo_o
-Jun: SeoyoungKo
+Jun: SeoyoungKo, YujinJeong
 Jul: DoyeonKim
 Aug: ygyoon, BoheeLee
 Sept: DohyunKim, hjchoi
@@ -39,3 +39,4 @@ SeoyoungKo: https://github.com/koseoyoung/dwg_codelab_repo
 DoyeonKim: https://github.com/O0laf/Doyeon
 MinAKim: https://github.com/coder-mina/favorite.git
 JaneYi : https://github.com/HelloJaneJane/jane_google
+YujinJeong: https://github.com/yujin627/Practice.git
