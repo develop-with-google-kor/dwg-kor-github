@@ -9,7 +9,7 @@ Jun: SeoyoungKo, YujinJeong
 Jul: DoyeonKim
 Aug: ygyoon, BoheeLee
 Sept: DohyunKim, hjchoi
-Oct: JiwooMin
+Oct: JiwooMin, JihyeEum
 Nov: hyunSo, JihyungMoon
 Dec:
 
@@ -41,3 +41,4 @@ MinAKim: https://github.com/coder-mina/favorite.git
 JaneYi : https://github.com/HelloJaneJane/jane_google
 NayeongKim : https://github.com/grace12021/springcat_google
 YujinJeong: https://github.com/yujin627/Practice.git
+JihyeEum: https://github.com/Eumji/favorite_songs_movies
