@@ -7,7 +7,7 @@ Apr: JungMinOh, NayeongKim
 May: ericjeong, SoyeeChoi, leesr, syshin, nywoo_o
 Jun: SeoyoungKo, YujinJeong
 Jul: DoyeonKim
-Aug: ygyoon, BoheeLee
+Aug: ygyoon, BoheeLee, SolbiChoi
 Sept: DohyunKim, hjchoi
 Oct: JiwooMin
 Nov: hyunSo, JihyungMoon
@@ -41,3 +41,4 @@ MinAKim: https://github.com/coder-mina/favorite.git
 JaneYi : https://github.com/HelloJaneJane/jane_google
 NayeongKim : https://github.com/grace12021/springcat_google
 YujinJeong: https://github.com/yujin627/Practice.git
+SolbiChoi: https://github.com/solbi823/google_software_camp.git
