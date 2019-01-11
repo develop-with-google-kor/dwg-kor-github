@@ -2,7 +2,7 @@ Step1, Please append your name in the month of your birth.
 
 Jan: dwg-hcpark, yliayoo, JaneYi
 Feb: SeoJung, AeriCho, JihyunSong, MinAKim
-Mar: seralee, JiyeonPark
+Mar: seralee, JiyeonPark, YujinAhn
 Apr: JungMinOh, NayeongKim, soyeonPark, YejiLee, YunaSeol
 May: ericjeong, SoyeeChoi, leesr, syshin, nywoo_o
 Jun: SeoyoungKo, YujinJeong
@@ -47,3 +47,4 @@ SolbiChoi: https://github.com/solbi823/google_software_camp.git
 JihyeEum: https://github.com/Eumji/favorite_songs_movies
 YunaSeol: https://github.com/yunaseol/develop-with-google.git
 WoohyunHan: https://github.com/tink-expo/google-software-camp
+YujinAhn: https://github.com/ahnyujin/favorite-songs-movies
